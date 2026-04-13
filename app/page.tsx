@@ -25,13 +25,13 @@ export default function Home() {
       <section className="section">
         <p className="section-eyebrow">Die Idee</p>
         <h2 className="section-title">
-          Eine App, die sich selbst ueberfluessig macht
+          Eine App, die sich selbst &uuml;berfl&uuml;ssig macht
         </h2>
         <p className="section-body">
           Momance ist kein weiteres Achtsamkeits-Tool, das dich an den
-          Bildschirm fesselt. Es ist ein Wahrnehmungstraining: Du haeltst
-          fest, was dich beruehrt — und entdeckst dabei Muster, die dir
-          sonst entgehen wuerden.
+          Bildschirm fesselt. Es ist ein Wahrnehmungstraining: Du h&auml;ltst
+          fest, was dich ber&uuml;hrt — und entdeckst dabei Muster, die dir
+          sonst entgehen w&uuml;rden.
         </p>
         <p className="section-body">
           Das Ziel? Dass du irgendwann nicht mehr brauchst, was Momance dir
@@ -51,8 +51,8 @@ export default function Home() {
             <div className="step-content">
               <h3>Moment festhalten</h3>
               <p>
-                Etwas hat dich beruehrt? Halte es mit ein paar Worten fest.
-                Kein Tagebuch, keine Pflicht — nur das, was gerade zaehlt.
+                Etwas hat dich ber&uuml;hrt? Halte es mit ein paar Worten fest.
+                Kein Tagebuch, keine Pflicht — nur das, was gerade z&auml;hlt.
               </p>
             </div>
           </div>
@@ -62,8 +62,8 @@ export default function Home() {
               <h3>Muster entdecken</h3>
               <p>
                 Momance erkennt, welche Bereiche deines Lebens dich bewegen —
-                und welche du vielleicht uebersehen hast. Stille, Verbindung,
-                Koerper, Natur, Schaffen, Genuss.
+                und welche du vielleicht &uuml;bersehen hast. Stille, Verbindung,
+                K&ouml;rper, Natur, Schaffen, Genuss.
               </p>
             </div>
           </div>
@@ -72,7 +72,7 @@ export default function Home() {
             <div className="step-content">
               <h3>Wachsen</h3>
               <p>
-                Beobachte, wie sich deine Wahrnehmung veraendert. Vom Entdecken
+                Beobachte, wie sich deine Wahrnehmung ver&auml;ndert. Vom Entdecken
                 zum Wahrnehmen, vom Verankern zum Integrieren — bis es Teil
                 deines Lebens ist.
               </p>
@@ -89,7 +89,7 @@ export default function Home() {
         <h2 className="section-title">Vier Dimensionen der Wahrnehmung</h2>
         <p className="section-body">
           Momance misst nicht, wie gut du bist. Es zeigt dir, wo du stehst —
-          auf vier unabhaengigen Achsen, die zusammen dein
+          auf vier unabh&auml;ngigen Achsen, die zusammen dein
           Wahrnehmungsprofil ergeben.
         </p>
         <div className="dimensions-grid">
@@ -99,15 +99,15 @@ export default function Home() {
           </div>
           <div className="dim-card">
             <h3>Breite</h3>
-            <p>Wie vielfaeltig sind die Bereiche, die dich beruehren?</p>
+            <p>Wie vielf&auml;ltig sind die Bereiche, die dich ber&uuml;hren?</p>
           </div>
           <div className="dim-card">
-            <h3>Spontanitaet</h3>
+            <h3>Spontaneit&auml;t</h3>
             <p>Wie schnell erkennst du, wenn etwas Besonderes passiert?</p>
           </div>
           <div className="dim-card">
             <h3>Autonomie</h3>
-            <p>Wie eigenstaendig gestaltest du bewusste Momente?</p>
+            <p>Wie eigenst&auml;ndig gestaltest du bewusste Momente?</p>
           </div>
         </div>
       </section>
@@ -116,7 +116,7 @@ export default function Home() {
 
       {/* ── CTA ── */}
       <section className="cta-section">
-        <p className="section-eyebrow">Bald verfuegbar</p>
+        <p className="section-eyebrow">Bald verf&uuml;gbar</p>
         <h2 className="section-title">
           Bereit, bewusster wahrzunehmen?
         </h2>

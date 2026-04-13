@@ -8,12 +8,12 @@ export default function Impressum() {
         <h1 className="section-title">Impressum</h1>
 
         <p className="section-body">
-          <strong style={{ color: 'var(--cream)' }}>Angaben gemaess &sect; 5 TMG</strong>
+          <strong style={{ color: 'var(--cream)' }}>Angaben gem&auml;&szlig; &sect; 5 TMG</strong>
         </p>
 
         <p className="section-body">
           ANTIPOL GbR<br />
-          Stefan Bodeit &amp; Catrin Schroeder-Jaross
+          Stefan Bodeit &amp; Catrin Schr&ouml;der-Jaross
         </p>
 
         <p className="section-body">
@@ -24,21 +24,21 @@ export default function Impressum() {
 
         <p className="section-body">
           <strong style={{ color: 'var(--cream)' }}>
-            Verantwortlich fuer den Inhalt nach &sect; 55 Abs. 2 RStV
+            Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV
           </strong>
           <br />
-          Stefan Bodeit &amp; Catrin Schroeder-Jaross
+          Stefan Bodeit &amp; Catrin Schr&ouml;der-Jaross
         </p>
 
         <p className="section-body">
           <em>
             Hinweis: Die Postanschrift wird nach Abschluss der
-            Gewerbeanmeldung ergaenzt.
+            Gewerbeanmeldung erg&auml;nzt.
           </em>
         </p>
 
         <p className="section-body" style={{ marginTop: 48 }}>
-          <a href="/">&larr; Zurueck zur Startseite</a>
+          <a href="/">&larr; Zur&uuml;ck zur Startseite</a>
         </p>
       </section>
     </main>
